@@ -13,16 +13,27 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
+PostGresConnect\[Dd]ebug/
+PostGresConnect\[Dd]ebugPublic/
+PostGresConnect\[Rr]elease/
+PostGresConnect\[Rr]eleases/
+PostGresConnect\x64/
+PostGresConnect\x86/
+PostGresConnect\bld/
+PostGresConnect\[Bb]in/
+PostGresConnect\[Oo]bj/
+PostGresConnect\[Ll]og/
+
+PostGresConnect.Tests\[Dd]ebug/
+PostGresConnect.Tests\[Dd]ebugPublic/
+PostGresConnect.Tests\[Rr]elease/
+PostGresConnect.Tests\[Rr]eleases/
+PostGresConnect.Tests\x64/
+PostGresConnect.Tests\x86/
+PostGresConnect.Tests\bld/
+PostGresConnect.Tests\[Bb]in/
+PostGresConnect.Tests\[Oo]bj/
+PostGresConnect.Tests\[Ll]og/
 
 # Visual Studio 2015 cache/options directory
 .vs/
