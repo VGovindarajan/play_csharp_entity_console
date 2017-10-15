@@ -1,0 +1,16 @@
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\PostGresConnect.exe.config
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\PostGresConnect.exe
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\PostGresConnect.pdb
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\EntityFramework.dll
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\Npgsql.dll
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\EntityFramework.xml
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\Npgsql.xml
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\obj\Debug\PostGresConnect.csproj.CoreCompileInputs.cache
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\obj\Debug\PostGresConnect.exe
+C:\Users\vgovindarajan\source\repos\PostGresConnect\PostGresConnect\obj\Debug\PostGresConnect.pdb
